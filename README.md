@@ -50,9 +50,9 @@ A modern, high-performance E-commerce demonstration project built with **Next.js
 src/
 ├── app/              # Routes, layouts, and server-side logic
 ├── components/       # UI Components (Layout, Product Cards, Cart UI)
+├── services/         # API connection
 ├── store/            # Zustand state definitions (Cart store)
-├── types/            # TypeScript interfaces/types
-└── utils/            # Helper functions
+└── types/            # TypeScript interfaces/types
 ```
 
 ![App Screenshot](screenshot.png)
