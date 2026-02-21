@@ -16,7 +16,7 @@ export default function ContactsPage() {
             title: "Email",
             value: "contact@petshop.ru",
             description: "We respond within 24 hours",
-            link: "mailto:contact@petshop.ru"
+            link: "mailto:contact@beatyshop.demo"
         },
         {
             icon: <MapPin className="h-6 w-6 text-indigo-600" />,
